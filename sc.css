@@ -1,0 +1,67 @@
+.hidden {
+    display: none !important;
+}
+
+.centered {
+    text-align: center;
+}
+
+.color1 {
+    background-color: #C2D5A7;
+    border: 2px solid white;
+}
+
+.color2 {
+    background-color: #A3D6D4;
+    border: 2px solid white;
+}
+
+.color3 {
+    background-color: #E1C6AC;
+    border: 2px solid white;
+}
+
+.color4 {
+    background-color: #E2A9BE;
+    border: 2px solid white;
+}
+
+.color5 {
+    background-color: #DED29E;
+    border: 2px solid white;
+}
+
+.color6 {
+    background-color: #FFB7B2;
+    border: 2px solid white;
+}
+
+.color7 {
+    background-color: #F2D974;
+    border: 2px solid white;
+}
+
+.color8 {
+    background-color: #B0ABCA;
+    border: 2px solid white;
+}
+
+table {
+    display: inline-table;
+    border-collapse: collapse;
+    user-select: none;
+    margin: 1em;
+}
+
+td {
+    width: 2em;
+    height: 2em;
+}
+
+button {
+    margin: .5em;
+}
+
+#slots {
+    min-height: 14em;
+}
